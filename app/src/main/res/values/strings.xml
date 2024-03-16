@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Object Detection</string>
+    <string name="app_name">Image Classification</string>
     <string name="camera_x">CameraX</string>
     <string name="camera">Kamera</string>
     <string name="gallery">Galeri</string>
