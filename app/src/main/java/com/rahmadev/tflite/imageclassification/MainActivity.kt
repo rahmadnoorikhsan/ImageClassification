@@ -1,4 +1,4 @@
-package com.rahmadev.tflite.objdetector
+package com.rahmadev.tflite.imageclassification
 
 import android.Manifest
 import android.content.Intent
@@ -12,8 +12,8 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import androidx.core.net.toUri
-import com.rahmadev.tflite.objdetector.CameraActivity.Companion.CAMERAX_RESULT
-import com.rahmadev.tflite.objdetector.databinding.ActivityMainBinding
+import com.rahmadev.tflite.imageclassification.CameraActivity.Companion.CAMERAX_RESULT
+import com.rahmadev.tflite.imageclassification.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
