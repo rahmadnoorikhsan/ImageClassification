@@ -1,4 +1,4 @@
-package com.rahmadev.tflite.objdetector
+package com.rahmadev.tflite.imageclassification
 
 import android.os.Build
 import android.os.Bundle
@@ -14,7 +14,7 @@ import androidx.camera.core.resolutionselector.AspectRatioStrategy
 import androidx.camera.core.resolutionselector.ResolutionSelector
 import androidx.camera.lifecycle.ProcessCameraProvider
 import androidx.core.content.ContextCompat
-import com.rahmadev.tflite.objdetector.databinding.ActivityCameraBinding
+import com.rahmadev.tflite.imageclassification.databinding.ActivityCameraBinding
 import com.rahmadev.tflite.utils.ImageClassifierHelper
 import org.tensorflow.lite.task.vision.classifier.Classifications
 import java.text.NumberFormat

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.rahmadev.tflite.objdetector"
+    namespace = "com.rahmadev.tflite.imageclassification"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.rahmadev.tflite.objdetector"
+        applicationId = "com.rahmadev.tflite.imageclassification"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

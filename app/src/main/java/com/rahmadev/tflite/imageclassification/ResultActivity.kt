@@ -1,10 +1,10 @@
-package com.rahmadev.tflite.objdetector
+package com.rahmadev.tflite.imageclassification
 
 import android.net.Uri
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
-import com.rahmadev.tflite.objdetector.databinding.ActivityResultBinding
+import com.rahmadev.tflite.imageclassification.databinding.ActivityResultBinding
 
 class ResultActivity : AppCompatActivity() {
 

@@ -1,4 +1,4 @@
-package com.rahmadev.tflite.objdetector
+package com.rahmadev.tflite.imageclassification
 
 import org.junit.Test
 

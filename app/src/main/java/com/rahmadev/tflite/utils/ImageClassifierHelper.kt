@@ -6,7 +6,7 @@ import android.os.SystemClock
 import android.util.Log
 import android.view.Surface
 import androidx.camera.core.ImageProxy
-import com.rahmadev.tflite.objdetector.R
+import com.rahmadev.tflite.imageclassification.R
 import org.tensorflow.lite.DataType
 import org.tensorflow.lite.support.common.ops.CastOp
 import org.tensorflow.lite.support.image.ImageProcessor

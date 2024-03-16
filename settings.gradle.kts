@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "ObjectDetection"
+rootProject.name = "ImageClassification"
 include(":app")
